@@ -1,7 +1,7 @@
 [![MasterHead](https://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdelrahman Tarek Awny</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"/>
 <p align="left"> <a href="https://twitter.com/abdelrahman2486" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrahman2486?logo=twitter&style=for-the-badge" alt="abdelrahman2486" /></a> </p>
 
 - 🔭 I’m currently working on [Souq mahala](https://souq-mahala.com/)
