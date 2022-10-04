@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdelrahman Tarek Awny</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115fa661159f8228ebf5ab3f6192a1656f1e127b91&rid=giphy.gif&ct=g"/>
+<img align="right" alt="Coding" width="400" src="[https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115fa661159f8228ebf5ab3f6192a1656f1e127b91&rid=giphy.gif&ct=g](https://www.google.com/imgres?imgurl=http%3A%2F%2Fso-development.org%2Fwp-content%2Fuploads%2F2021%2F11%2Ffull-stack-development.gif&imgrefurl=https%3A%2F%2Fso-development.org%2Fsoftware-development%2F&tbnid=sGO0QsnlUm-eqM&vet=12ahUKEwjUytqJt8X6AhWb7BoKHUkaAs0QMygTegUIARCoAg..i&docid=NolFxdFvkIQzpM&w=750&h=400&q=Frontend%20developer%20background%20animated%20gif&ved=2ahUKEwjUytqJt8X6AhWb7BoKHUkaAs0QMygTegUIARCoAg)"/>
 <p align="left"> <a href="https://twitter.com/abdelrahman2486" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrahman2486?logo=twitter&style=for-the-badge" alt="abdelrahman2486" /></a> </p>
 
 - 🔭 I’m currently working on [Souq mahala](https://souq-mahala.com/)
