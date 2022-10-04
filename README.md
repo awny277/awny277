@@ -1,4 +1,4 @@
-[![MasterHead](https://www.rankbyfocus.com/wp-content/uploads/2021/10/Emerging-web-design-trends-for-2021.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdelrahman Tarek Awny</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"/>
