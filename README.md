@@ -1,4 +1,4 @@
-[![MasterHead](https://codeworkshop.dev/static/8a5b2989e06c0d8376faabd9a879dbf9/2706c/frontendbackend.jpg)](https://rishavchanda.io)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdelrahman Tarek Awny</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"/>
