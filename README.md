@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Tarek Awny</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115fa661159f8228ebf5ab3f6192a1656f1e127b91&rid=giphy.gif&ct=g"/>
 <p align="left"> <a href="https://twitter.com/abdelrahman2486" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrahman2486?logo=twitter&style=for-the-badge" alt="abdelrahman2486" /></a> </p>
 
 - 🔭 I’m currently working on [Souq mahala](https://souq-mahala.com/)
