@@ -1,7 +1,7 @@
 [![MasterHead](https://3vbi0f1s2xof2cneu737voox-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/leading-web-design-trends.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdelrahman Tarek Awny</h1>
-<h3 align="center">front-end developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"/>
+<h3 align="center">Frontend | React developer</h3>
+
 <p align="left"> <a href="https://twitter.com/abdelrahman2486" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrahman2486?logo=twitter&style=for-the-badge" alt="abdelrahman2486" /></a> </p>
 
 - 🔭 I’m currently working on [Souq mahala](https://souq-mahala.com/)
